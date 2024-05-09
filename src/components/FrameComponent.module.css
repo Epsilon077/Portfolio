@@ -1,0 +1,250 @@
+.ux {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 98px;
+  z-index: 7;
+}
+.userInfoButton {
+  width: 1105.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.titleIcon {
+  width: 838px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  max-width: 100%;
+}
+.image30Icon {
+  height: 40px;
+  width: 174.9px;
+  position: relative;
+  object-fit: contain;
+}
+.frameIcon,
+.itemBtnProyecto {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.itemBtnProyecto {
+  width: 440.9px;
+  box-shadow: 2px 13px 0#000;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-2xl) var(--padding-xl);
+  max-width: 100%;
+}
+.frameIcon {
+  height: 40px;
+  width: 174px;
+  position: relative;
+  object-fit: contain;
+}
+.itemBtnProyecto1 {
+  width: 440px;
+  box-shadow: 2px 13px 0#000;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-2xl) var(--padding-xl);
+  max-width: 100%;
+}
+.frameIcon1 {
+  height: 40px;
+  width: 145.8px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.itemBtnProyecto2,
+.itemBtnProyectoParent {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.itemBtnProyecto2 {
+  width: 411.8px;
+  box-shadow: 2px 13px 0#000;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-2xl) var(--padding-xl);
+}
+.itemBtnProyectoParent {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.titleParent,
+.userInfoButtonParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.titleParent {
+  align-items: flex-start;
+  gap: var(--gap-68xl);
+  z-index: 9;
+}
+.userInfoButtonParent {
+  align-items: flex-end;
+  gap: var(--gap-5xs);
+  text-align: center;
+  font-size: var(--font-size-48xl);
+  color: var(--color-gainsboro);
+  font-family: var(--font-poppins);
+}
+.tieneAlgunaPregunta {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 9;
+}
+.itemTextMedium {
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 129px;
+}
+.itemBtnTalkme,
+.itemBtnTalkmeWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.itemBtnTalkme {
+  width: 341px;
+  box-shadow: 2px 13px 0#000;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray);
+  border: 2px solid var(--color-black);
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: var(--padding-2xl) var(--padding-xl);
+  z-index: 7;
+}
+.itemBtnTalkmeWrapper {
+  align-self: stretch;
+  padding: 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+}
+.talkMeItemButton {
+  width: 1442px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.frameInner,
+.frameParent,
+.paragraphMedium,
+.talkMeItemButton {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.paragraphMedium {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.frameInner,
+.frameParent {
+  justify-content: flex-start;
+}
+.frameParent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-87xl);
+  text-align: center;
+  font-size: var(--font-size-48xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-poppins);
+}
+.frameInner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-6xs);
+  box-sizing: border-box;
+}
+@media screen and (max-width: 1325px) {
+  .itemBtnProyectoParent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .ux {
+    font-size: var(--font-size-35xl);
+  }
+  .titleParent {
+    gap: var(--gap-24xl);
+  }
+  .tieneAlgunaPregunta {
+    font-size: var(--font-size-35xl);
+  }
+  .talkMeItemButton {
+    gap: var(--gap-xl);
+  }
+  .frameParent {
+    gap: var(--gap-34xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .ux {
+    font-size: var(--font-size-21xl);
+  }
+  .titleParent {
+    gap: var(--gap-3xl);
+  }
+  .tieneAlgunaPregunta {
+    font-size: var(--font-size-21xl);
+  }
+  .itemTextMedium {
+    font-size: var(--font-size-xl);
+  }
+  .frameParent {
+    gap: var(--gap-7xl);
+  }
+}

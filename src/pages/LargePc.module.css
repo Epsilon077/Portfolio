@@ -1,0 +1,376 @@
+.frameIcon {
+  align-self: stretch;
+  height: 30px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.itemTextParrafMedium {
+  margin: 0;
+  height: 397px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  z-index: 3;
+}
+.itemTextParrafMediumWrapper {
+  width: 1446px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1px 287.6px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frameIcon1 {
+  width: calc(100% + 11px);
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: -11px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 6;
+}
+.muroneNegroPoints,
+.muroneNegroPoints1 {
+  position: absolute;
+  top: 0;
+  left: -448px;
+  width: 1895px;
+  height: 1135px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.muroneNegroPoints1 {
+  left: 1394px;
+  height: 775px;
+  z-index: 1;
+}
+.frameIcon2,
+.muroNegroPuntos119457211Icon {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.muroNegroPuntos119457211Icon {
+  height: 1524px;
+  object-fit: cover;
+  z-index: 2;
+}
+.frameIcon2 {
+  height: 800px;
+  z-index: 4;
+}
+.frameWrapper {
+  width: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 4px;
+  box-sizing: border-box;
+}
+.frameIcon3 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 10;
+}
+.ui {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 65px;
+  z-index: 11;
+}
+.frameParent,
+.muroNegroPuntos119457211Parent {
+  position: absolute;
+  display: flex;
+  justify-content: flex-start;
+}
+.frameParent {
+  width: 100px;
+  margin: 0 !important;
+  right: 388px;
+  bottom: -542px;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 9px 873px;
+  box-sizing: border-box;
+  gap: 292px;
+}
+.muroNegroPuntos119457211Parent {
+  top: 0;
+  left: -21px;
+  width: 2024px;
+  flex-direction: row;
+  align-items: flex-start;
+  text-align: center;
+  font-size: var(--font-size-48xl);
+  color: var(--color-gainsboro);
+  font-family: var(--font-poppins);
+}
+.muroneNegroPoints2,
+.muroneNegroPoints3,
+.muroneNegroPoints4 {
+  position: absolute;
+  top: 0;
+  left: 1398px;
+  width: 60px;
+  height: 290px;
+  overflow: hidden;
+  z-index: 3;
+}
+.muroneNegroPoints3,
+.muroneNegroPoints4 {
+  left: 344px;
+  height: 885px;
+  z-index: 4;
+}
+.muroneNegroPoints4 {
+  left: 165px;
+  width: 20px;
+  height: 325px;
+}
+.muroneNegroPoints5,
+.muroneNegroPoints6,
+.muroneNegroPoints7 {
+  position: absolute;
+  top: 0;
+  left: 686px;
+  width: 20px;
+  height: 260px;
+  overflow: hidden;
+  z-index: 3;
+}
+.muroneNegroPoints6,
+.muroneNegroPoints7 {
+  left: 1346px;
+  height: 162px;
+}
+.muroneNegroPoints7 {
+  left: 469px;
+  width: 30px;
+  height: 1029px;
+  z-index: 4;
+}
+.muroneNegroPoints10,
+.muroneNegroPoints8,
+.muroneNegroPoints9 {
+  position: absolute;
+  top: 0;
+  left: 763px;
+  width: 30px;
+  height: 765px;
+  overflow: hidden;
+  z-index: 4;
+}
+.muroneNegroPoints10,
+.muroneNegroPoints9 {
+  left: 656px;
+  height: 1044px;
+}
+.muroneNegroPoints10 {
+  left: 1458px;
+  height: 305px;
+}
+.muroneNegroPoints11,
+.muroneNegroPoints12,
+.muroneNegroPoints13 {
+  position: absolute;
+  top: 0;
+  left: 314px;
+  width: 30px;
+  height: 825px;
+  overflow: hidden;
+  z-index: 5;
+}
+.muroneNegroPoints12,
+.muroneNegroPoints13 {
+  left: 254px;
+  height: 1755px;
+  z-index: 7;
+}
+.muroneNegroPoints13 {
+  height: 100%;
+  bottom: 0;
+  left: 269px;
+  max-height: 100%;
+  width: 60px;
+  z-index: 8;
+}
+.muroneNegroPoints14 {
+  left: 167px;
+  width: 60px;
+  height: 1755px;
+  z-index: 7;
+}
+.frameIcon4,
+.frameIcon5,
+.muroneNegroPoints14 {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.frameIcon4 {
+  left: 14px;
+  width: 20px;
+  height: 741px;
+  z-index: 4;
+}
+.frameIcon5 {
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.frameGroup,
+.muroneNegroPoints15 {
+  position: absolute;
+  top: 0;
+  left: 1659px;
+  width: 60px;
+  height: 1997px;
+}
+.muroneNegroPoints15 {
+  left: 964px;
+  width: 100px;
+  height: 1118px;
+  overflow: hidden;
+  z-index: 7;
+}
+.muroneNegroPoints16 {
+  left: 1742px;
+  width: 100px;
+  height: 1420px;
+  z-index: 10;
+}
+.frameIcon6,
+.frameIcon7,
+.muroneNegroPoints16 {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.frameIcon6 {
+  left: 32px;
+  width: 30px;
+  height: 325px;
+  z-index: 4;
+}
+.frameIcon7 {
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.frameContainer {
+  position: absolute;
+  top: 0;
+  left: 1707px;
+  width: 100px;
+  height: 1906px;
+}
+.muroneNegroPointsParent {
+  width: 100%;
+  height: 2069px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.frame,
+.largePc1919 {
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame {
+  margin: 0 !important;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  align-items: flex-start;
+  padding: 86px 67px 122px 70px;
+  gap: 137.4px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 59px;
+  color: var(--color-gray);
+  font-family: var(--font-poppins);
+}
+.largePc1919 {
+  position: relative;
+  background-color: #3d3b3b;
+  align-items: flex-end;
+  padding: 2154px 1086px 0 0;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .frame,
+  .largePc1919 {
+    box-sizing: border-box;
+  }
+  .frame {
+    gap: 69px;
+    padding-left: 35px;
+    padding-right: 33px;
+  }
+  .largePc1919 {
+    padding-right: 543px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .itemTextParrafMedium {
+    font-size: 47px;
+  }
+  .ui {
+    font-size: var(--font-size-35xl);
+  }
+  .frame {
+    gap: 34px;
+  }
+  .largePc1919 {
+    padding-right: 271px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .itemTextParrafMedium {
+    font-size: 35px;
+  }
+  .ui {
+    font-size: var(--font-size-21xl);
+  }
+}
